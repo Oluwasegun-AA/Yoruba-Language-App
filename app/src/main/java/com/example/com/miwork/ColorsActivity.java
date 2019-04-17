@@ -95,7 +95,7 @@ public class ColorsActivity extends AppCompatActivity {
         }
     };
 
-    //for mermory optimization, release() is use to free the memory used to save the resources when the media is not needed
+    //for mermory optimization, release() is used to free the memory used to save the resources when the media is not needed
     private void releaseMediaPlayer() {
         if (player != null) {
             player.release();
