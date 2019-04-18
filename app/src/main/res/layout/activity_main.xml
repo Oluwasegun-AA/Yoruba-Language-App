@@ -23,7 +23,7 @@
         android:id="@+id/colors"
         style="@style/CategoryStyle"
         android:background="@color/category_colors"
-        android:text="@string/category_colors"/>
+        android:text="@string/category_colors" />
 
     <TextView
         android:id="@+id/phrases"
